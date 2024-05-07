@@ -10,4 +10,4 @@ class TestFunctions(TestCase):
 
     def test_greet_bob(self):
         result = greet("Bob")
-        self.assertEqual(result, "Hello, Bobb")
+        self.assertEqual(result, "Hello, Bob")
