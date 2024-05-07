@@ -1,7 +1,10 @@
 name: Push Docker Image
 
+
 on:
   workflow_dispatch: # This event triggers the workflow manually
+
+permissions: read-all
 
 jobs:
   build-and-push:
