@@ -26,8 +26,9 @@ jobs:
       - name: Install dependencies
         run: |
           pip install pytest
-      - name: Python flake8 Lint
-        uses: py-actions/flake8@v2.3.0
+      - name: Run flake8 with reviewdog
+        uses: reviewdog/action-flake8@v3.8.0
+
       - name: Test with pytest
         run: |
           pytest
