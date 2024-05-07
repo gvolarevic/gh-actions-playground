@@ -1,7 +1,7 @@
 from functions import greet
 import sys
 
-name = "World"
+name = "Glorija"
 greeting= greet(name)
 
 print(greeting)
