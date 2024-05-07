@@ -1,6 +1,8 @@
 from functions import greet
+import sys
 
 name = "Glorija"
-greeting = greet(name)
+greeting= greet(name)
 
 print(greeting)
+
