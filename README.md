@@ -2,7 +2,7 @@
 Template repository with some simple Python code that will be used for examples in GitHub Actions lab.
 
 &#8594; Create a new repository from this template.
-
+test etst test
 ## Run
 
 ### With Python
