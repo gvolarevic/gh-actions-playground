@@ -4,8 +4,7 @@ Template repository with some simple Python code that will be used for examples 
 &#8594; Create a new repository from this template.
 ## Run
 
-idemo  probati
-
+S-112552
 ### With Python
 ```1
 python src/app.py
