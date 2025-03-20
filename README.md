@@ -4,7 +4,6 @@ Template repository with some simple Python code that will be used for examples 
 &#8594; Create a new repository from this template.
 ## Run
  
-S-89480 S-89480 (without tracking code commits)
 ### With Python
 ```1
 python src/app.py
